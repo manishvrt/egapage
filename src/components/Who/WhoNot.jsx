@@ -4,7 +4,7 @@ const WhoNot = () => {
   return (
     <div className="flex justify-center  items-start w-full">
       {/* Left Section */}
-      <div className="flex flex-col justify-center items-center bg-[#F3F4E9] py-20 w-1/2 h-auto">
+      <div className="flex flex-col justify-center items-center bg-[#48e5c2]/20  py-20 w-1/2 h-auto">
         <span className="rounded-3xl text-lg flex justify-center items-center gap-3 py-2 mb-6 border-zinc-200 small px-7">
           <img
             src="https://www.svgrepo.com/show/488878/company.svg"
@@ -41,7 +41,7 @@ const WhoNot = () => {
       </div>
 
       {/* Right Section */}
-      <div className="flex flex-col justify-center items-center bg-[#fff2f2] py-20 w-1/2 h-auto">
+      <div className="flex flex-col justify-center items-center bg-[#fff2f2]  py-20 w-1/2 h-auto">
         <span className="rounded-3xl text-lg flex justify-center items-center gap-3 py-2 mb-6 border-zinc-200 small px-7">
           <img
             src="https://www.svgrepo.com/show/488878/company.svg"
